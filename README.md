@@ -34,3 +34,11 @@ La aplicación sigue una arquitectura de **microservicios** con una capa de serv
 
 ```bash
 git clone https://github.com/tu-usuario/marvel-api.git
+
+### Paso 6: Subir el README a GitHub
+
+1. Guarda el archivo `README.md`.
+2. Vuelve a la terminal y agrega el archivo al repositorio:
+
+   ```bash
+   git add README.md
